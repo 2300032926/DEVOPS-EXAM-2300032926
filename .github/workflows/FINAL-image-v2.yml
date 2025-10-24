@@ -1,4 +1,4 @@
-name: Docker FULLSTACK USING GIT ACTIONS
+name: Docker Fullstack CI/CD LATEST
 
 on:
   push:
