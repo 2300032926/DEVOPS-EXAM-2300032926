@@ -18,7 +18,7 @@ import {
 } from "@mui/material";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-export default function VoterApp() {
+export default function Voterapp() {
   const baseUrl = `${import.meta.env.VITE_API_URL}`;
   const [voter, setVoter] = useState({
     id: "",

@@ -1,4 +1,4 @@
-import VoterApp from "./Voterapp"
+import Voterapp from "./Voterapp"
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <VoterApp/>
+        <Voterapp/>
         </div>
     </>
   )
